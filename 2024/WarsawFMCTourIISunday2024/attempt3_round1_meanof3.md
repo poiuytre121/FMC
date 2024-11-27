@@ -56,9 +56,13 @@ Podsumowując średnią, zdecydowanie ponad stan, patrząc na to, że to 20 z pi
 Na dokładkę dorzucę bloczkowe 23 które znalazł Dawid Wójcik, a który to start na inwersji "zostawiłem na później" bodajże, choć nie jest pewne, czy bym to znalazł:
 
 (U2 B2 U2) //1x2x3 (3/3)
+
 (D' F' B2) //pseudo F2L-1 (3/6)
+
 B' //F2L-1 (1/7)
+
 (U F' U' F) //kwadrat (4/11)
+
 (U R' F R F' U) //3C (6/17)
 
 Optymalna insercja daje 23, gdybym to znalazł obudzilibyśmy się w świecie gdzie mam meana 23,33. To by była pewna przesada :P
