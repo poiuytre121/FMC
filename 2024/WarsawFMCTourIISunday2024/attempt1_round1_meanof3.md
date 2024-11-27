@@ -58,3 +58,5 @@ Daje nam to finalnie następujące rozwiązanie: B D F U L' U' F2 D' U R' U R L'
 
 
 Overall PB bez żadnych wątpliwości, redukcja liczby nemesisów na świecie do zera, liczba boga osiągnięta, mega szczęśliwy jestem z tej próby.
+
+[Wizualizacja](https://alg.cubing.net/?setup=R-_U-_F_L-_F-_D_L2_U_F-_L-_B2_L-_B2_R2_D_L2_D2_B2_R2_F2_B_D2_R-_U-_F&alg=B_D_F_%2F%2FEO_(3%2F3)%0AU_L-_U-_F2_D-_%2F%2F2x2x3_(5%2F8)%0AU_R-_U_R_%2F%2Fbia%C5%82o_czerwono_niebieski_2x2x1,_przy_okazji_robi_si%C4%99_slot_(4%2F12)%0AL-_U_R2_U-_L_U_R2_U-_%2F%2Finsercja_bez_skracania_ruch%C3%B3w%0AU_R2_U_R_U_%2F%2F3C_(5%2F17)%0A)
