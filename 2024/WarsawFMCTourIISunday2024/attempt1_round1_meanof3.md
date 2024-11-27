@@ -3,10 +3,15 @@
 ## Scramble: R' U' F L' F' D L2 U F' L' B2 L' B2 R2 D L2 D2 B2 R2 F2 B D2 R' U' F
 
 Zaczynam od block buildingu:
+
 B' R D L U L U //2x2x2 (7/7)
+
 D F' L2 D F' //2x2x3 (5/12)
+
 L D2 L D2 L2 //F2L-1 (5/17)
+
 D B D' B' //EO (4/21)
+
 L' D' L D //3C + 1TC (4/25)
 
 Zostawiłem to sobie jako backup i poszedłem szukać dalej
