@@ -56,7 +56,7 @@ po kolei znajdowałem następujące insercje:
 
 @1 R2 D L' D' R2 D L D' (8-1)
 
-@2 L' U R2 U' L U R2 U' (8-5) //jak zauważałem każdy kolejny skracający się ruch z tyłu to ta wcześniejsza myśl o -6 dawała o sobie znać, ale na pięciu się skończyło, gdyby to R dalej było R', to by była historia....
+@2 L' U R2 U' L U R2 U' (8-5) //jak zauważałem każdy kolejny skracający się ruch z tyłu to ta wcześniejsza myśl o -6 dawała o sobie znać, ale na pięciu się skończyło, gdyby to U dalej było U', to by była historia....
 
 
 Daje nam to finalnie następujące rozwiązanie: B D F U L' U' F2 D' U R' U R L' U R2 U' L U2 R U (20)
